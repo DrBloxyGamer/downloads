@@ -1,15 +1,11 @@
  {
    "FFlagHandleAltEnterFullscreenManually": "False",
-    "DFFlagDebugRenderForceTechnologyVoxel": "True",
     "FIntRenderShadowIntensity": "0",
-    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "2147483647",
-    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "2147483647",
     "DFFlagDisableDPIScale": "True",
     "FIntRenderLocalLightUpdatesMax": "0",
     "FIntRenderLocalLightUpdatesMin": "0",
     "FIntRenderLocalLightFadeInMs": "0",
     "FFlagDisablePostFx": "True",
-    "FIntDebugForceMSAASamples": "0",
     "FFlagTaskSchedulerLimitTargetFpsTo2402": "False",
     "DFIntTaskSchedulerTargetFps": "9999",
     "FFlagDebugDisableTelemetryEphemeralCounter": "True",
@@ -22,6 +18,15 @@
     "DFIntAnimationLodFacsDistanceMin": "0",
     "DFIntAnimationLodFacsDistanceMax": "0",
     "DFIntAnimationLodFacsVisibilityDenominator": "0",
-    "DFFlagDebugPauseVoxelizer": "True",
-    "DFIntS2PhysicsSenderRate": "36420"
+    "DFIntS2PhysicsSenderRate": "36420",
+    "FFlagDebugSkyGray": "True",
+    "DFIntMinClientSimulationRadius": "2147000000",
+    "DFIntMinimalSimRadiusBuffer": "2147000000",
+    "DFIntMaxClientSimulationRadius": "2147000000",
+    "DFFlagDebugPhysicsSenderDoesNotShrinkSimRadius": "True",
+    "FFlagDebugUseCustomSimRadius": "True",
+    "DFIntCullFactorPixelThresholdMainViewHighQuality": "25",
+    "DFIntCullFactorPixelThresholdMainViewLowQuality": "25",
+    "DFIntCullFactorPixelThresholdShadowMapHighQuality": "25",
+    "DFIntCullFactorPixelThresholdShadowMapLowQuality": "25"
 }
